@@ -17,6 +17,8 @@ const Container = styled.div`
   align-items: center;
   justify-content: center;
   background-color: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+  
 `;
 const Spinner = styled.div`
   position: absolute;
